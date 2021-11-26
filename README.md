@@ -24,7 +24,7 @@ The switching speed with USB is dependent on the host computer. The EVT3064 swit
 
 The *EVT-1016* is a fast RF Correlator with USB controlled crossover switch-matrix that can switch any of **four common ports** to any of **16 input/output ports**.
 
-The features are the same as the EVT3064 but in the 10MHz - 10GHz frequencies bands
+The features are the same as the EVT3016 but in the 10MHz - 10GHz frequencies bands
 
 <img src="img/Correlator.jpg" height="450" alt="Correlator 16 ports">
 
@@ -69,7 +69,7 @@ Example commands:
 
 ## What's in this repository ?
 
-In `examples/Python` you will find example code to use the correlators with python code.
+In `examples/python` you will find example code to use the correlators with python code.
 No special library is required.
 
 ## About us

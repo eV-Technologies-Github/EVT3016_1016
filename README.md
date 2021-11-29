@@ -1,7 +1,7 @@
 
-# eV-Technologies 16 ports correlators
+# eV-Technologies 2/4 to 16 ports correlators
 
-> 10MHz-30GHz and 10MHz-10GHz 4x16 Port Solid-State mmWave and RF Crossover Switches
+> 16KHz-30GHz and 10MHz-10GHz 4x16 Port Solid-State mmWave and RF Crossover Switches
 
 <a href="https://ev-technologies.com/">
 <img src="img/logo_eV-Technologies.png" height="60" alt="logo_eV-Technologies">
@@ -12,7 +12,7 @@
 
 ### EVT3016 mmWave Correlator
 
-The *EVT-3016* is a fast mmWave-Correlator with USB controlled crossover switch-matrix that can switch any of **four common ports** to any of **16 input/output ports**.
+The *EVT-3016* is a fast mmWave-Correlator with USB controlled crossover switch-matrix that can switch any of **two or four common ports** to any of **16 input/output ports**.
 It features a **full crossover capability** allowing any switching combination to be selected, while supporting **bi-directional** RF paths from 16 kHz to 30 GHz with **low insertion loss**. Each port is DC blocked and can withstand up to 16V.
 Unlike mechanical switches, each port is always internally matched to **50 Ohm** and the unselected ports are internally matched making this perfect as a VNA extender.The module features an internal oven and can if required hold stability over time to less than 0.02dB with zero drift and near perfect repeatability due to solid-state technology.
 The EVT3064 is configured with 2.92mm common ports and SMPM switched ports. Different connector types may be provided upon request. The EVT3064 is suitable for automated test and may be controlled via USB.
@@ -22,11 +22,11 @@ The switching speed with USB is dependent on the host computer. The EVT3064 swit
 
 ### EVT1016 RF Correlator
 
-The *EVT-1016* is a fast RF Correlator with USB controlled crossover switch-matrix that can switch any of **four common ports** to any of **16 input/output ports**.
+The *EVT-1016* is a fast RF Correlator with USB controlled crossover switch-matrix that can switch any of **two or four common ports** to any of **16 input/output ports**.
 
-The features are the same as the EVT3016 but in the 10MHz - 10GHz frequencies bands
+The features are the same as the EVT3016 but in the 16KHz - 10GHz frequencies bands
 
-<img src="img/Correlator.jpg" height="450" alt="Correlator 16 ports">
+<img src="img/correlator_16ports.jpg" height="450" alt="Correlator 16 ports">
 
 
 ## Control options

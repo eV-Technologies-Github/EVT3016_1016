@@ -15,10 +15,10 @@
 The *EVT-3016* is a fast mmWave-Correlator with USB controlled crossover switch-matrix that can switch any of **two or four common ports** to any of **16 input/output ports**.
 It features a **full crossover capability** allowing any switching combination to be selected, while supporting **bi-directional** RF paths from 16 kHz to 30 GHz with **low insertion loss**. Each port is DC blocked and can withstand up to 16V.
 Unlike mechanical switches, each port is always internally matched to **50 Ohm** and the unselected ports are internally matched making this perfect as a VNA extender.The module features an internal oven and can if required hold stability over time to less than 0.02dB with zero drift and near perfect repeatability due to solid-state technology.
-The EVT3064 is configured with 2.92mm common ports and SMPM switched ports. Different connector types may be provided upon request. The EVT3064 is suitable for automated test and may be controlled via USB.
+The EVT3016 is configured with 2.92mm common ports and SMPM switched ports. Different connector types may be provided upon request. The EVT3016 is suitable for automated test and may be controlled via USB.
 Predefined sequences can be loaded in and triggered by input and output TTL logic signals. This can allow ultra-fast switch sequences of micro-second timing to be achieved.
 The use of the oven requires an additional power supply, but the module can run from USB alone if the increased long-term temperature stability is not required.
-The switching speed with USB is dependent on the host computer. The EVT3064 switching may settle within 10us. However, when the switching is driven by a host PC may, this is typically slowed down to 1ms. If faster speeds are required, a pre-determined sequence can be loaded in and TTL triggering can be used to sweep through the switching sequence.
+The switching speed with USB is dependent on the host computer. The EVT3016 switching may settle within 10us. However, when the switching is driven by a host PC may, this is typically slowed down to 1ms. If faster speeds are required, a pre-determined sequence can be loaded in and TTL triggering can be used to sweep through the switching sequence.
 
 ### EVT1016 RF Correlator
 
@@ -51,7 +51,7 @@ The features are the same as the EVT3016 but in the 16KHz - 10GHz frequencies ba
 
 ## Usable commands
 
-The commands are usable with both EVT3064 and EVT1064
+The commands are usable with both EVT3016 and EVT1016
 
 To change the connection of any port:
 
